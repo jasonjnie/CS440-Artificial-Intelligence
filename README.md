@@ -1,1 +1,1 @@
-# CS440
+# CS440 Artificial Intelligence @UIUC
